@@ -1,0 +1,1 @@
+# 24-mnemonic-wordlists
